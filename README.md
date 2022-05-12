@@ -12,5 +12,5 @@ Author:PSK100
 
 and after add in data 
 
-![image](https://user-images.githubusercontent.com/78690700/168040850-520777ca-a6e6-4973-8343-c3033803bf26.png)
+![image](https://user-images.githubusercontent.com/78690700/168041067-74ef6a5f-8964-4add-a820-f4b377c522ec.png)
 
