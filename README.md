@@ -10,7 +10,7 @@ Author:PSK100
 
 ![image](https://user-images.githubusercontent.com/78690700/168040545-a228436b-93ad-48c2-8022-85780a3b63fb.png)
 
-and after add in data 
+and after add in data  
 
 ![image](https://user-images.githubusercontent.com/78690700/168041067-74ef6a5f-8964-4add-a820-f4b377c522ec.png)
 
