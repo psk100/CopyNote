@@ -189,7 +189,7 @@ def paste(events):
 def enter_in(events):
     global w ,oldw,clp,inp
     w = events.widget
-    w.configure(bg="green",fg="white")
+    w.configure(bg="black",fg="white")
 def leave_out(events):
       global clp,inp,n,clicks
       reload()
